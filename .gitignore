@@ -1,0 +1,51 @@
+# Published programming image and its build records
+/output_files/*
+!/output_files/Mandel.sof
+!/output_files/Mandel.fit.summary
+!/output_files/Mandel.sta.summary
+!/output_files/build_manifest.json
+
+# Quartus working files
+/db/
+/incremental_db/
+/greybox_tmp/
+/.qsys_edit/
+*.sof
+!/output_files/Mandel.sof
+*.pof
+*.hexout
+*.rpt
+*.summary
+!/output_files/Mandel.fit.summary
+!/output_files/Mandel.sta.summary
+*.smsg
+*.qmsg
+*.done
+*.jdi
+*.pin
+*.sld
+*.qws
+*_assignment_defaults.qdf
+
+# Simulator outputs and generated IP simulation files
+*.vvp
+*.vcd
+*.wlf
+*.cr.mti
+*.mpf
+/work/
+/*_sim/
+/*_sim.f
+__pycache__/
+*.py[cod]
+
+# Local settings and scratch files
+/.local/
+*.bak
+*.log
+.env
+.env.*
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db

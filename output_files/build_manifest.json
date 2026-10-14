@@ -1,0 +1,51 @@
+{
+  "built_utc": "20261014T015453279049Z",
+  "sources": {
+    "Mandel.qpf": "02695a6cbf91d90e0df23684ba08a1a4ded1d1c8621cbdebc51b197769e3cc0f",
+    "Mandel.qsf": "462f222a71423cec2ab2d63b852318394508bf04503ac274f9f031306fc9a466",
+    "Mandel.sdc": "4434bc9ee8ba888ede6fb49c30561137c954f459683855cef3b0e4c6ea7255cf",
+    "framebuffer.mif": "051c2d07f93375d79a03aaa2f40c519a4d3683919dc93dbfce1d2e9bb59f8b65",
+    "rtl/BmpStream.v": "5495b2e583176a1f02146e007041f01116aae0b9b2448851decaf8655ab7e24a",
+    "rtl/ColorMapper.v": "6de4a764ff3b73ddca2670939263e878249e3c7e9daf65c926d39f773b2846c8",
+    "rtl/Coor_gen.v": "bf606a33e68ce3546e2a247191d4724f0f35a73458c1a498c2e675026d16cb62",
+    "rtl/EffectPalettes.v": "33282f9159aa5d8c0e16143ac5e35b0cb7133e031e7a55d34bee6e6e8b2bd7ee",
+    "rtl/Engine_fast.v": "ef82d6b7d8675885e308192bf06fb36855205bf28b32c83fdec68831371b9ac2",
+    "rtl/Engine_interleaved.v": "684a4c45543eb89c0a0e6c68419dab360383f941b09494d5776584342d057aeb",
+    "rtl/FatScreenshot.v": "9ba4a1e00375a3e10428579f9e85822a4957c9947b6c7e1f279f585ef690a2ef",
+    "rtl/FrameBuffer.v": "18b2f1100b1df9740a0f0c7782c4cb699f963dbb37dac4a8db13db1f1039f012",
+    "rtl/HDColorEffects.v": "eee308648885c4804c72014c8cbb94bf92f3e096743be5fc966e34ec9cdb27af",
+    "rtl/HDVideo.v": "05509838c4b4f2c3ddc5162a33984acaf41f38a710ca6827e212032ca34207f7",
+    "rtl/LineBuffer.v": "82e38d3dabc779c1d3ab829434cced562b608981777cdcbf3a39592e277eb482",
+    "rtl/LiveStore.v": "8185699d69bb386772ccbcf27d01c6f217ebd6df9f304058996e9b975a30fccf",
+    "rtl/Mandel.v": "c12385a3f754e969c93fd9225e715243f5cbf4d2b5d4346795fa41debb1d5c5b",
+    "rtl/RenderClocks.v": "ffada9c1f282d391a04b87cd9196fe0c2802decad73e115b28eaf5dda13c17fe",
+    "rtl/RenderQueue.v": "b29cc15ef150ab0248a43d5d7fda2db309e7d41c0ecc019a7c23d65749adaba4",
+    "rtl/RenderWorker.v": "9ff418eb34913f9ec4cb84f4e6547b5c6fb9414fcdb6f0f0376ffab5e12db3ac",
+    "rtl/ResultArbiter.v": "aae4182a03127057b71b73028c6b8fcf09cab4e5c81271a86aa12ec347ed465d",
+    "rtl/ScreenshotControl.v": "8dc9405919e11b36d5f8e6dc03be2f35e8de7f8e6f0091371b3566d2e2af40d2",
+    "rtl/SdCard.v": "4dec1c80c9f85b6ac98b3e0c9b79827724f70f7f8ca7f9871fcb0414abab2325",
+    "rtl/SupersampleColor.v": "86a561643d6a25a414b6fef66f7560bbd3c317e45479b87e496f96495bce33c1",
+    "rtl/UhdRenderer.v": "4a95e6d65ab7219268760e6419fbea5df2dd774518530bdee7f15fc5e1f3b178",
+    "rtl/UnsignedDivide.v": "999c46db9a55100cc672b6a871ab7892a5066e2a3a28286fbb8a05a9ec194031",
+    "rtl/VGA.v": "c99afade3aae945d62ea9447ed9a4bf1df884f9b0387863bf080116f6797891a",
+    "rtl/VideoTimingDelay.v": "c5a90fb04ce9b62a65d403d895e47047cb6f6ab7aea79cf2c4230b3522990c02",
+    "rtl/ViewControl.v": "c81a5bb6352a96188e724e68087e1bf609dc83f0b2fd28ec10e387c6416df267",
+    "rtl/io_sdram.v": "cbf7964c0d0ee4286e51ec69f6ed9833ef7c909f7c45bc677f683c4e94bde1a3",
+    "rtl/keyboard.v": "e03ae7643b2535762c464b758825625d5a4279fc95c4afb915bb6c9d99fbfa4d",
+    "rtl/mandel_constants.vh": "cf992f9c561524062dd4f7134931390da792e6f3225f361790bf08f7f15d6b19",
+    "rtl/sd_spi.v": "adda3ef0af924c30829faf21713aa8ea65dec95605d5228259afdaa1046b252f",
+    "rtl/synch_3.v": "30c9f44dc461765cea1152ff8e95ead22aef16d274a252e5a60de390eeaa20b1"
+  },
+  "artifacts": {
+    "Mandel.sof": "eb3c02500f87b7e7e5d446e2628c4e40ff83c3e972f404dcb49203260c16a565",
+    "Mandel.fit.summary": "47810d3f05831149db8e536e38fd13caa465487c51b3e5ab122bb2e8325e2167",
+    "Mandel.sta.summary": "61fd1cadfcf36792dbf8c00276c26843fa57c7ad566f7580eb4b6c535e81b404"
+  },
+  "worst_slack_ns": {
+    "Setup": 0.044,
+    "Hold": 0.122,
+    "Recovery": 5.01,
+    "Removal": 0.249,
+    "Minimum Pulse Width": 0.925
+  }
+}

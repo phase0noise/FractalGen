@@ -1,0 +1,22 @@
+* text=auto
+*.v text eol=lf
+*.sv text eol=lf
+*.vh text eol=lf
+*.py text eol=lf
+*.tcl text eol=lf
+*.md text eol=lf
+*.qsf text eol=lf
+*.qpf text eol=lf
+*.sdc text eol=lf
+*.cdf text eol=lf
+*.mif text eol=lf
+*.hex text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+.editorconfig text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.summary text eol=lf
+*.json text eol=lf
+*.sof binary
+*.pof binary
