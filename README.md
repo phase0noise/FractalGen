@@ -4,6 +4,14 @@ A Mandelbrot explorer written in Verilog for the Terasic DE0-CV
 (Cyclone V 5CEBA4F23C7). VGA output, PS/2 keyboard and board controls,
 sixteen palettes, animated effects, and BMP screenshots to microSD.
 
+
+<img width="3840" height="2160" alt="4kfractal2" src="https://github.com/user-attachments/assets/79eb575a-a384-4300-8542-27006047d3ba" />
+<img width="3840" height="2160" alt="4kfractal5" src="https://github.com/user-attachments/assets/5c624d38-de83-441d-9962-6066da460989" />
+<img width="3840" height="2160" alt="cool4kfractal" src="https://github.com/user-attachments/assets/764399d6-c9c8-4b0e-97d6-ea530c651a46" />
+
+
+
+
 | Mode | Resolution | Rendering |
 | --- | --- | --- |
 | Preview | 640 x 480 | Interactive navigation, 511 iterations |
