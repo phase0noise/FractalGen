@@ -48,7 +48,7 @@ noise. See [SD screenshots](sd-screenshots.md) for cancellation details.
 | --- | --- |
 | SW0 | Set the HD request when the switch changes position |
 | SW1 | Burn: animate palette phase |
-| SW2 | Stochastic Burn: advance scattered subsets of pixels |
+| SW2 | Stochastic Burn: advance scattered subsets of pixels while Burn is enabled |
 | SW3 | Prism: enhance colored edges |
 | SW4 | Morph: blend between palettes |
 | SW5 | Glow: add luminous trails |
